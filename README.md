@@ -1,1 +1,1 @@
-"#Snappfood"
+#SNAPPFOOD
